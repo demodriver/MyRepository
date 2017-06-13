@@ -1,0 +1,14 @@
+.\main.o: SRC\main.c
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\main.o: .\Libraries\CMSIS\Core\CM3\stm32f10x.h
+.\main.o: .\Libraries\CMSIS\Core\CM3\core_cm3.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: .\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
+.\main.o: .\SRC\stm32f10x_conf.h
+.\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\main.o: .\Libraries\CMSIS\Core\CM3\stm32f10x.h
+.\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
